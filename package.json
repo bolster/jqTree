@@ -1,0 +1,23 @@
+{
+  "name": "jqTree",
+  "version": "0.16.0",
+  "description": "[![Travis Status](https://secure.travis-ci.org/mbraak/jqTree.png)](http://travis-ci.org/mbraak/jqTree)",
+  "main": "tree.jquery.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bolster/jqTree.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bolster/jqTree/issues"
+  },
+  "homepage": "https://github.com/bolster/jqTree"
+}
